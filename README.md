@@ -2,7 +2,7 @@
 
 I am Mitchell. That's all you need to know, right?
 
-#### Languages & Frameworks
+### Languages & Frameworks
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/typescript/typescript.png"></code>
