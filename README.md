@@ -10,7 +10,6 @@ I am Mitchell. That's all you need to know, right?
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"></code>
 
 ### Statistics
 
