@@ -28,7 +28,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.0.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.0.0), 3 months ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.0.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.0.0), 4 months ago) - Prestashop module for BTCPay Server payment integration
 
 
 
