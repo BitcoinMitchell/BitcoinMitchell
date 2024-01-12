@@ -40,7 +40,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Update BTCPayServer.Plugins.Blink.csproj](https://github.com/Kukks/BTCPayServerPlugins/pull/27) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (3 weeks ago)
 - [Removed the displayPaymentEU hook](https://github.com/btcpayserver/prestashop-plugin/pull/88) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Ensure client is available in validation.php](https://github.com/btcpayserver/prestashop-plugin/pull/87) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [Update PrestaShop.md to v6.x](https://github.com/btcpayserver/btcpayserver-doc/pull/1314) on [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) (5 months ago)
+- [Update PrestaShop.md to v6.x](https://github.com/btcpayserver/btcpayserver-doc/pull/1314) on [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) (6 months ago)
 - [Delete PrestaShop directory](https://github.com/btcpayserver/dockerfile-deps/pull/68) on [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) (6 months ago)
 
 
