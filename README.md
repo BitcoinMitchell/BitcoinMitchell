@@ -17,7 +17,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (3 weeks ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 month ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (2 months ago)
-- [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (5 months ago)
+- [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (6 months ago)
 
 
 
