@@ -14,8 +14,8 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (3 days ago)
-- [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (1 month ago)
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (4 days ago)
+- [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (2 months ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (3 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (3 months ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (7 months ago)
@@ -39,10 +39,10 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Improved the configuration flow](https://github.com/btcpayserver/prestashop-plugin/pull/95) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
-- [Update GeneralSettings.cshtml](https://github.com/btcpayserver/btcpayserver/pull/5748) on [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) (4 days ago)
-- [Upgraded to latest dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/93) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
-- [Update BTCPayServer.Plugins.Blink.csproj](https://github.com/Kukks/BTCPayServerPlugins/pull/27) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (1 month ago)
+- [Improved the configuration flow](https://github.com/btcpayserver/prestashop-plugin/pull/95) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 days ago)
+- [Update GeneralSettings.cshtml](https://github.com/btcpayserver/btcpayserver/pull/5748) on [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) (5 days ago)
+- [Upgraded to latest PS dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/93) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [Update BTCPayServer.Plugins.Blink.csproj](https://github.com/Kukks/BTCPayServerPlugins/pull/27) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (2 months ago)
 - [Removed the displayPaymentEU hook](https://github.com/btcpayserver/prestashop-plugin/pull/88) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
 
 
