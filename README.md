@@ -31,19 +31,19 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.1.1](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.1.1), 1 week ago) - Prestashop module for BTCPay Server payment integration
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.12.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.12.5), 3 weeks ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.1.2](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.1.2), 1 day ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.12.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.12.5), 4 weeks ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.3.7](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.3.7), 3 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/109) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
-- [[Core] Ensure relevant polyfills are replaced](https://github.com/btcpayserver/prestashop-plugin/pull/108) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
-- [[Core] Lock Symfony to 4.4.*](https://github.com/btcpayserver/prestashop-plugin/pull/107) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
-- [Update dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/106) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
-- [[Core] Resolve installation failure](https://github.com/btcpayserver/prestashop-plugin/pull/101) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [[GitHub] Use github.ref_name instead of github.ref](https://github.com/btcpayserver/prestashop-plugin/pull/110) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
+- [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/109) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [[Core] Ensure relevant polyfills are replaced](https://github.com/btcpayserver/prestashop-plugin/pull/108) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [[Core] Lock Symfony to 4.4.*](https://github.com/btcpayserver/prestashop-plugin/pull/107) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [Update dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/106) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 
 
 
