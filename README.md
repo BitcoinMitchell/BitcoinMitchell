@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 week ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 weeks ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (1 month ago)
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (3 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (4 months ago)
@@ -39,9 +39,9 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [[Versioning] Re-use the existing CurlClient for version checking](https://github.com/btcpayserver/prestashop-plugin/pull/114) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [[Versioning] Re-use the existing CurlClient for version checking](https://github.com/btcpayserver/prestashop-plugin/pull/114) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/113) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
-- [[GitHub] Use github.ref_name instead of github.ref](https://github.com/btcpayserver/prestashop-plugin/pull/110) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
+- [[GitHub] Use github.ref_name instead of github.ref](https://github.com/btcpayserver/prestashop-plugin/pull/110) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 weeks ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/109) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 weeks ago)
 - [[Core] Ensure relevant polyfills are replaced](https://github.com/btcpayserver/prestashop-plugin/pull/108) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 
