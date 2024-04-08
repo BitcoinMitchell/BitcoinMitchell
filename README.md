@@ -39,11 +39,11 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
+- [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
 - [[Versioning] Re-use the existing CurlClient for version checking](https://github.com/btcpayserver/prestashop-plugin/pull/114) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/113) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [[GitHub] Use github.ref_name instead of github.ref](https://github.com/btcpayserver/prestashop-plugin/pull/110) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/109) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [[Core] Ensure relevant polyfills are replaced](https://github.com/btcpayserver/prestashop-plugin/pull/108) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 
 
 
