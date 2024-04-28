@@ -39,11 +39,11 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/btcpayserver/btcpayserver-docker/pull/895) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (1 day ago)
 - [[DX] Use mailpit over mailhog](https://github.com/btcpayserver/prestashop-plugin/pull/122) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
-- [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
+- [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [[Versioning] Re-use the existing CurlClient for version checking](https://github.com/btcpayserver/prestashop-plugin/pull/114) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/113) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [[GitHub] Use github.ref_name instead of github.ref](https://github.com/btcpayserver/prestashop-plugin/pull/110) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 
 
 
