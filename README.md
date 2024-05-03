@@ -14,8 +14,8 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (3 days ago)
-- [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 days ago)
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (4 days ago)
+- [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (5 days ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (3 weeks ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 months ago)
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (4 months ago)
@@ -39,7 +39,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/btcpayserver/btcpayserver-docker/pull/895) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (5 days ago)
+- [Update README.md](https://github.com/btcpayserver/btcpayserver-docker/pull/895) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (6 days ago)
 - [[DX] Use mailpit over mailhog](https://github.com/btcpayserver/prestashop-plugin/pull/122) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [[Versioning] Re-use the existing CurlClient for version checking](https://github.com/btcpayserver/prestashop-plugin/pull/114) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
