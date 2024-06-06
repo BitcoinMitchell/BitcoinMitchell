@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (4 weeks ago)
+- [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (1 month ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 month ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (1 month ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (1 month ago)
@@ -31,25 +31,25 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.2](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.2), 1 day ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.3.8](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.3.8), 1 month ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.1](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.1), 1 month ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.1.4](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.1.4), 1 month ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Resolved invalid URL in README.md](https://github.com/Kukks/BTCPayServerPlugins/pull/41) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (4 weeks ago)
+- [Resolved invalid URL in README.md](https://github.com/Kukks/BTCPayServerPlugins/pull/41) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (1 month ago)
 - [Update README.md &#43; GitHub configuration](https://github.com/btcpayserver/prestashop-plugin/pull/128) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/btcpayserver-docker/pull/895) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (1 month ago)
 - [[DX] Use mailpit over mailhog](https://github.com/btcpayserver/prestashop-plugin/pull/122) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
+- [Prestashop module review - Edge case improvements](https://github.com/btcpayserver/prestashop-plugin/pull/121) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React (1 day ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React (2 days ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 years ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 years ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (2 years ago)
