@@ -31,7 +31,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.2](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.2), 4 days ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.2](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.2), 5 days ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.3.8](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.3.8), 1 month ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.1.4](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.1.4), 2 months ago) - Prestashop module for BTCPay Server payment integration
 
@@ -49,7 +49,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React (5 days ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React (6 days ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 years ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 years ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (2 years ago)
