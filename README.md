@@ -15,7 +15,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 #### 👷 Check out what I'm currently working on
 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 week ago)
-- [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) - Repository hosting some Dockerfile used for external dependencies (4 weeks ago)
+- [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) - Repository hosting some Dockerfile used for external dependencies (1 month ago)
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (2 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (2 months ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 months ago)
@@ -33,7 +33,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.1.5](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.1.5), 1 week ago) - Prestashop module for BTCPay Server payment integration
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.3](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.3), 1 month ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
-- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.3.8](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.3.8), 2 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.3.8](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.3.8), 3 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 
 
 
