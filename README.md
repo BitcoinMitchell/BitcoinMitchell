@@ -59,7 +59,6 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 👯 Check out some of my recent followers
 
-- [sammorozov](https://github.com/sammorozov)
 - [AryanJ-NYC](https://github.com/AryanJ-NYC)
 - [raquegla59](https://github.com/raquegla59)
 - [pavlenex](https://github.com/pavlenex)
