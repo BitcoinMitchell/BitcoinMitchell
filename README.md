@@ -43,7 +43,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Resolved invalid URL in README.md](https://github.com/Kukks/BTCPayServerPlugins/pull/41) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (4 months ago)
 - [Update README.md &#43; GitHub configuration](https://github.com/btcpayserver/prestashop-plugin/pull/128) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 - [Update README.md](https://github.com/btcpayserver/btcpayserver-docker/pull/895) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (4 months ago)
-- [[DX] Use mailpit over mailhog](https://github.com/btcpayserver/prestashop-plugin/pull/122) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
+- [[DX] Use mailpit over mailhog](https://github.com/btcpayserver/prestashop-plugin/pull/122) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 months ago)
 
 
 
