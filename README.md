@@ -42,14 +42,14 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/150) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
 - [Updated all dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/147) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
-- [[Configuration] Ensure ConfigureController works on PS 8.0](https://github.com/btcpayserver/prestashop-plugin/pull/140) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
+- [[Configuration] Ensure ConfigureController works on PS 8.0](https://github.com/btcpayserver/prestashop-plugin/pull/140) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
 - [Resolved invalid URL in README.md](https://github.com/Kukks/BTCPayServerPlugins/pull/41) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (4 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (3 months ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (4 months ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 years ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 years ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (2 years ago)
