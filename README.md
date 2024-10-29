@@ -39,11 +39,11 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
+- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/150) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Updated all dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/147) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [[Configuration] Ensure ConfigureController works on PS 8.0](https://github.com/btcpayserver/prestashop-plugin/pull/140) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
-- [Resolved invalid URL in README.md](https://github.com/Kukks/BTCPayServerPlugins/pull/41) on [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) (5 months ago)
 
 
 
