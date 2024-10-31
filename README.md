@@ -31,15 +31,15 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v2.0.0](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.0.0), 1 day ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 3 weeks ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.2.1](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.2.1), 1 month ago) - Prestashop module for BTCPay Server payment integration
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v1.13.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.5), 3 months ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 days ago)
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/150) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Updated all dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/147) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
