@@ -31,7 +31,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v2.0.0](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.0.0), 1 day ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v2.0.0](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.0.0), 2 days ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 3 weeks ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.2.1](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.2.1), 1 month ago) - Prestashop module for BTCPay Server payment integration
 
@@ -39,17 +39,17 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 days ago)
+- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 days ago)
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/150) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Updated all dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/147) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [[Configuration] Ensure ConfigureController works on PS 8.0](https://github.com/btcpayserver/prestashop-plugin/pull/140) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
+- [[Configuration] Ensure ConfigureController works on PS 8.0](https://github.com/btcpayserver/prestashop-plugin/pull/140) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (4 months ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (5 months ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 years ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 years ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (2 years ago)
