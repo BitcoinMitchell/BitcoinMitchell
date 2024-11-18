@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserver/prestashop-plugin) for BTCPay Server. [Any donations are welcome](https://btcpay.coinsofnakamoto.com/apps/eG9EE9XXwfT4TApjs99rJ8LnRc9/pos)!
+I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserver/prestashop-plugin) for BTCPay Server. [Any donations are welcome](https://bti.btcpayprovider.com/apps/eSbwxyPzhdLgsdxB85JgbCv9rVb/pos)!
 
 ### Languages & Frameworks
 
