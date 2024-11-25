@@ -39,11 +39,11 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
 - [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
-- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
+- [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 weeks ago)
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 - [Update README.md](https://github.com/btcpayserver/prestashop-plugin/pull/150) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
-- [Updated all dependencies](https://github.com/btcpayserver/prestashop-plugin/pull/147) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 
 
 
