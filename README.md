@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 weeks ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (3 weeks ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (3 months ago)
 - [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) - Repository hosting some Dockerfile used for external dependencies (7 months ago)
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (8 months ago)
@@ -31,15 +31,15 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v2.0.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.0.6), 2 days ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.0), 1 month ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) ([v2.0.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.0.6), 3 days ago) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.0), 2 months ago) - Prestashop module for BTCPay Server payment integration
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 3 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
+- [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 weeks ago)
 - [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 - [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 - [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
