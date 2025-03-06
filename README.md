@@ -15,7 +15,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 #### 👷 Check out what I'm currently working on
 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 months ago)
-- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (4 months ago)
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (5 months ago)
 - [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) - Repository hosting some Dockerfile used for external dependencies (8 months ago)
 - [Kukks/BTCPayServerPlugins](https://github.com/Kukks/BTCPayServerPlugins) -  (10 months ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (10 months ago)
@@ -32,7 +32,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 #### 🔭 Latest releases I've contributed to
 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.0), 3 months ago) - Prestashop module for BTCPay Server payment integration
-- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 4 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 5 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 
 
 
@@ -40,7 +40,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 - [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 - [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
-- [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (3 months ago)
+- [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 - [Updated README.md](https://github.com/btcpayserver/prestashop-plugin/pull/159) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 - [Update module to v6.2.1](https://github.com/btcpayserver/prestashop-plugin/pull/152) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 months ago)
 
