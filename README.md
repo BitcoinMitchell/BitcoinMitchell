@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) -  (today)
+- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) -  (1 day ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (4 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (7 months ago)
 - [btcpayserver/dockerfile-deps](https://github.com/btcpayserver/dockerfile-deps) - Repository hosting some Dockerfile used for external dependencies (11 months ago)
@@ -30,7 +30,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) ([1.0.0](https://github.com/p444c5/bitcointalk-ban-checker/releases/tag/1.0.0), 2 days ago) - 
+- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) ([1.0.0](https://github.com/p444c5/bitcointalk-ban-checker/releases/tag/1.0.0), 3 days ago) - 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.0](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.0), 5 months ago) - Prestashop module for BTCPay Server payment integration
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.4.0](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.4.0), 7 months ago) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
 
@@ -38,7 +38,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Ensure the parser can deal with `:` in the username](https://github.com/p444c5/bitcointalk-ban-checker/pull/1) on [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) (1 day ago)
+- [fix: Ensure the parser can deal with `:` in the username](https://github.com/p444c5/bitcointalk-ban-checker/pull/1) on [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) (2 days ago)
 - [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 - [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 months ago)
 - [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 months ago)
