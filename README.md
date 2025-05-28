@@ -38,7 +38,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Ensure the parser can deal with `:` in the username](https://github.com/p444c5/bitcointalk-ban-checker/pull/1) on [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) (1 week ago)
+- [fix: Ensure the parser can deal with `:` in the username](https://github.com/p444c5/bitcointalk-ban-checker/pull/1) on [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) (2 weeks ago)
 - [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 months ago)
 - [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 months ago)
 - [Delete .github/workflows/dependencies.yml](https://github.com/btcpayserver/prestashop-plugin/pull/164) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 months ago)
@@ -49,9 +49,9 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 #### ⭐ Recent Stars
 
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (11 months ago)
-- [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 years ago)
-- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (2 years ago)
-- [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (2 years ago)
+- [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (3 years ago)
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (3 years ago)
+- [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (3 years ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (3 years ago)
 
 
