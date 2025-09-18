@@ -37,8 +37,8 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Add more versions to validate flow &#43; Improved PR template](https://github.com/btcpayserver/prestashop-plugin/pull/202) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
-- [Ensure PrestaShop 9 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/201) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
+- [Add more versions to validate flow &#43; Improved PR template](https://github.com/btcpayserver/prestashop-plugin/pull/202) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [Ensure PrestaShop 9 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/201) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
 - [fix: Ensure the parser can deal with `:` in the username](https://github.com/p444c5/bitcointalk-ban-checker/pull/1) on [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) (4 months ago)
 - [Updated to 2025](https://github.com/btcpayserver/prestashop-plugin/pull/178) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (8 months ago)
 - [Ensure BTCPayServer 2.0 compatibility](https://github.com/btcpayserver/prestashop-plugin/pull/170) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (9 months ago)
