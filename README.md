@@ -16,7 +16,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (2 weeks ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 weeks ago)
-- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) -  (4 months ago)
+- [p444c5/bitcointalk-ban-checker](https://github.com/p444c5/bitcointalk-ban-checker) -  (5 months ago)
 
 
 
