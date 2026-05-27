@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (5 months ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (6 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (8 months ago)
 
 
@@ -35,7 +35,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [dev: Lockdown pipelines](https://github.com/btcpayserver/prestashop-plugin/pull/213) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 months ago)
+- [dev: Lockdown pipelines](https://github.com/btcpayserver/prestashop-plugin/pull/213) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 months ago)
 - [dev: Updated repo some more](https://github.com/BitcoinMitchell/cryptwerk-plugin/pull/106) on [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) (8 months ago)
 - [PrestaShop 9 upgrade](https://github.com/BitcoinMitchell/cryptwerk-plugin/pull/100) on [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) (8 months ago)
 - [Update validate.yml](https://github.com/btcpayserver/prestashop-plugin/pull/204) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (8 months ago)
