@@ -36,9 +36,9 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (1 week ago)
+- [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (2 weeks ago)
 - [Updated Thunderhub to v0.18.4](https://github.com/btcpayserver/btcpayserver-docker/pull/1059) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (2 weeks ago)
-- [refactor: Removed Torq](https://github.com/btcpayserver/btcpayserver-docker/pull/1057) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (4 weeks ago)
+- [refactor: Removed Torq](https://github.com/btcpayserver/btcpayserver-docker/pull/1057) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (1 month ago)
 - [dev: Lockdown pipelines](https://github.com/btcpayserver/prestashop-plugin/pull/213) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (7 months ago)
 - [dev: Updated repo some more](https://github.com/BitcoinMitchell/cryptwerk-plugin/pull/106) on [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) (9 months ago)
 
