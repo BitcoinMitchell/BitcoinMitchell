@@ -15,7 +15,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 #### 👷 Check out what I'm currently working on
 
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (3 weeks ago)
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (7 months ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (8 months ago)
 - [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (10 months ago)
 
 
@@ -39,7 +39,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (3 weeks ago)
 - [Updated Thunderhub to v0.18.4](https://github.com/btcpayserver/btcpayserver-docker/pull/1059) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (3 weeks ago)
 - [refactor: Removed Torq](https://github.com/btcpayserver/btcpayserver-docker/pull/1057) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (1 month ago)
-- [dev: Lockdown pipelines](https://github.com/btcpayserver/prestashop-plugin/pull/213) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (7 months ago)
+- [dev: Lockdown pipelines](https://github.com/btcpayserver/prestashop-plugin/pull/213) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (8 months ago)
 - [dev: Updated repo some more](https://github.com/BitcoinMitchell/cryptwerk-plugin/pull/106) on [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) (10 months ago)
 
 
