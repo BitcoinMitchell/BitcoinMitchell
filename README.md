@@ -39,7 +39,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Improve UX &#43; DX](https://github.com/btcpayserver/prestashop-plugin/pull/252) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Implement discussion features &#43; stop fallthrough](https://github.com/btcpayserver/prestashop-plugin/pull/251) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [fix: Allow BTCPay webhooks during PrestaShop maintenance mode](https://github.com/btcpayserver/prestashop-plugin/pull/250) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
-- [Harden the plugin](https://github.com/btcpayserver/prestashop-plugin/pull/240) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [Harden the plugin](https://github.com/btcpayserver/prestashop-plugin/pull/240) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
 - [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (2 months ago)
 
 
