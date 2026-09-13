@@ -56,9 +56,9 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 👯 Check out some of my recent followers
 
+- [8llo10](https://github.com/8llo10)
+- [dilshankumara001001](https://github.com/dilshankumara001001)
+- [yumiaura](https://github.com/yumiaura)
 - [ndeet](https://github.com/ndeet)
 - [bestwest247](https://github.com/bestwest247)
-- [808BlockChain](https://github.com/808BlockChain)
-- [p444c5](https://github.com/p444c5)
-- [AryanJ-NYC](https://github.com/AryanJ-NYC)
 
