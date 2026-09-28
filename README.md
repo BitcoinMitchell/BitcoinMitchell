@@ -16,7 +16,6 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 month ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (2 months ago)
-- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (1 year ago)
 
 
 
@@ -39,7 +38,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 - [Implement discussion features &#43; stop fallthrough](https://github.com/btcpayserver/prestashop-plugin/pull/251) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [fix: Allow BTCPay webhooks during PrestaShop maintenance mode](https://github.com/btcpayserver/prestashop-plugin/pull/250) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Harden the plugin](https://github.com/btcpayserver/prestashop-plugin/pull/240) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
-- [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (2 months ago)
+- [Revert &#34;Updated Thunderhub to v0.18.4&#34;](https://github.com/btcpayserver/btcpayserver-docker/pull/1060) on [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) (3 months ago)
 
 
 
