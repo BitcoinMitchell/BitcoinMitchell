@@ -34,7 +34,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔨 My recent Pull Requests
 
-- [Use gh release CLI in release workflow](https://github.com/btcpayserver/prestashop-plugin/pull/261) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
+- [Use gh release CLI in release workflow](https://github.com/btcpayserver/prestashop-plugin/pull/261) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Improve UX &#43; DX](https://github.com/btcpayserver/prestashop-plugin/pull/252) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Implement discussion features &#43; stop fallthrough](https://github.com/btcpayserver/prestashop-plugin/pull/251) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [fix: Allow BTCPay webhooks during PrestaShop maintenance mode](https://github.com/btcpayserver/prestashop-plugin/pull/250) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
