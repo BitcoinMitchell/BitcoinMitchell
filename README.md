@@ -28,17 +28,17 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.5](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.5), 1 day ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.6](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.6), 1 day ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
-- [Fix PrestaShop 9 authorize flow and harden configure UI](https://github.com/btcpayserver/prestashop-plugin/pull/276) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
+- [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
+- [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [Fix PrestaShop 9 authorize flow and harden configure UI](https://github.com/btcpayserver/prestashop-plugin/pull/276) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
 - [Use gh release CLI in release workflow](https://github.com/btcpayserver/prestashop-plugin/pull/261) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Improve UX &#43; DX](https://github.com/btcpayserver/prestashop-plugin/pull/252) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
-- [Implement discussion features &#43; stop fallthrough](https://github.com/btcpayserver/prestashop-plugin/pull/251) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 
 
 
