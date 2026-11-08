@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (4 days ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (5 days ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 months ago)
 
 
@@ -28,15 +28,15 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.6](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.6), 4 days ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.3.6](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.3.6), 5 days ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (4 days ago)
-- [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 days ago)
-- [Fix PrestaShop 9 authorize flow and harden configure UI](https://github.com/btcpayserver/prestashop-plugin/pull/276) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 days ago)
+- [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (5 days ago)
+- [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
+- [Fix PrestaShop 9 authorize flow and harden configure UI](https://github.com/btcpayserver/prestashop-plugin/pull/276) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
 - [Use gh release CLI in release workflow](https://github.com/btcpayserver/prestashop-plugin/pull/261) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 month ago)
 - [Improve UX &#43; DX](https://github.com/btcpayserver/prestashop-plugin/pull/252) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 months ago)
 
