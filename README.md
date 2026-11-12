@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 days ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 day ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 months ago)
 
 
@@ -28,14 +28,14 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.1](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.1), 2 days ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.3](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.3), 1 day ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Retry order creation when the cart lock is busy](https://github.com/btcpayserver/prestashop-plugin/pull/297) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
-- [Fixes three issues reported against 6.4.1 (resolves #295)](https://github.com/btcpayserver/prestashop-plugin/pull/296) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
+- [Retry order creation when the cart lock is busy](https://github.com/btcpayserver/prestashop-plugin/pull/297) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [Fixes three issues reported against 6.4.1 (resolves #295)](https://github.com/btcpayserver/prestashop-plugin/pull/296) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
 - [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Fix PrestaShop 9 authorize flow and harden configure UI](https://github.com/btcpayserver/prestashop-plugin/pull/276) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
