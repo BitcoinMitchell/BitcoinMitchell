@@ -14,7 +14,7 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 day ago)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 days ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 months ago)
 
 
@@ -28,16 +28,16 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.5](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.5), 2 days ago) - Prestashop module for BTCPay Server payment integration
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.5](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.5), 3 days ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: create the order when InvoiceSettled arrives first, and show order details without a cart](https://github.com/btcpayserver/prestashop-plugin/pull/305) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 day ago)
-- [Retry order creation when the cart lock is busy](https://github.com/btcpayserver/prestashop-plugin/pull/297) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
-- [Fixes three issues reported against 6.4.1 (resolves #295)](https://github.com/btcpayserver/prestashop-plugin/pull/296) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
-- [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [fix: create the order when InvoiceSettled arrives first, and show order details without a cart](https://github.com/btcpayserver/prestashop-plugin/pull/305) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 days ago)
+- [Retry order creation when the cart lock is busy](https://github.com/btcpayserver/prestashop-plugin/pull/297) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [Fixes three issues reported against 6.4.1 (resolves #295)](https://github.com/btcpayserver/prestashop-plugin/pull/296) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
+- [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
 - [fix: Hydrate BitcoinPayment without PDO fetchObject](https://github.com/btcpayserver/prestashop-plugin/pull/277) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
 
 
