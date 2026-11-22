@@ -14,7 +14,8 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 ---
 #### 👷 Check out what I'm currently working on
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (1 day ago)
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse (today)
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (2 days ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 months ago)
 
 
@@ -28,13 +29,14 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### 🔭 Latest releases I've contributed to
 
-- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.6](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.6), 1 day ago) - Prestashop module for BTCPay Server payment integration
+- [BitcoinMitchell/cryptwerk-plugin](https://github.com/BitcoinMitchell/cryptwerk-plugin) ([v0.6.2](https://github.com/BitcoinMitchell/cryptwerk-plugin/releases/tag/v0.6.2), today) - PrestaShop module to convert available products into a XML feed that CryptWerk can parse
+- [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) ([v6.4.6](https://github.com/btcpayserver/prestashop-plugin/releases/tag/v6.4.6), 2 days ago) - Prestashop module for BTCPay Server payment integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: create the order when InvoiceSettled arrives first, and show order details without a cart](https://github.com/btcpayserver/prestashop-plugin/pull/305) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (6 days ago)
+- [fix: create the order when InvoiceSettled arrives first, and show order details without a cart](https://github.com/btcpayserver/prestashop-plugin/pull/305) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Retry order creation when the cart lock is busy](https://github.com/btcpayserver/prestashop-plugin/pull/297) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Fixes three issues reported against 6.4.1 (resolves #295)](https://github.com/btcpayserver/prestashop-plugin/pull/296) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (1 week ago)
 - [Use the suggestions/improve upon #268](https://github.com/btcpayserver/prestashop-plugin/pull/279) on [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) (2 weeks ago)
@@ -44,11 +46,11 @@ I am Mitchell. I maintain the [Prestashop plugin](https://github.com/btcpayserve
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (2 years ago)
 - [btcpayserver/btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) - Docker resources for hosting BTCPayServer easily (4 years ago)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  (4 years ago)
 - [btcpayserver/btcpayserver-doc](https://github.com/btcpayserver/btcpayserver-doc) - BTCPay Server Official Documentation (4 years ago)
 - [btcpayserver/prestashop-plugin](https://github.com/btcpayserver/prestashop-plugin) - Prestashop module for BTCPay Server payment integration (4 years ago)
+- [lnurl/awesome-lnurl](https://github.com/lnurl/awesome-lnurl) - A curated list of awesome lnurl things. (5 years ago)
 
 
 
